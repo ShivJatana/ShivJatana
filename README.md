@@ -6,7 +6,7 @@ I keep fleets and operations running: 13 years across transportation, fleet oper
 emergency logistics, and client service.
 
 ### 🚚 What I do
-- **Dispatcher, Voyago (Transdev Ontario)** — dispatch 152 drivers on the Durham Region Transit paratransit contract
+- **Dispatcher, Transdev Canada (Voyago)** — dispatch 152 drivers on the Durham Region Transit paratransit contract
 - **Flight Attendant, Porter Airlines** — safety-critical cabin operations under Transport Canada rules
 - **Fleet Analyst & Dispatch, Priority Logistics** — raised on-time delivery from 80% to 90% and cut unplanned downtime by 25% across a 30-truck fleet
 - **Logistics Supervisor, Canadian Red Cross** — led logistics for 30+ COVID-19 mobile vaccination sites and 13 responders
